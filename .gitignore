@@ -23,3 +23,9 @@ yarn-error.log*
 
 # VS Code config
 /.vscode
+
+# Dependencies Analysis
+/target
+
+# Firebase debug logs
+firebase-debug.log
