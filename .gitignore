@@ -26,3 +26,6 @@ yarn-error.log*
 
 # Dependencies Analysis
 /target
+
+# Firebase debug logs
+firebase-debug.log
